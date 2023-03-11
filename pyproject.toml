@@ -1,5 +1,6 @@
 [tool.pytest.ini_options]
 addopts = " --alluredir=allure-results "
+
 [tool.poetry]
 name = "qa-guru-python-3-20"
 version = "0.1.0"
